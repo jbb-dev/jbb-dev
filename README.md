@@ -9,6 +9,7 @@ Bonjour ! Je suis Jean-Baptiste, un développeur Full Stack spécialisé en Java
 - **Back-end**: Node.js
 - **Outils et Méthodologies**: Git, Agile, Scrum
 - **Autres Technologies**: AWS, Firebase, Heroku
+- **Langues étrangères** Anglais courant
 
 ## Pourquoi me choisir ? ⚡
 - **Expertise en React & React Native**: Maîtrise approfondie de React.js et React Native pour des applications performantes et intuitives.
