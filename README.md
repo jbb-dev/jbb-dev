@@ -19,3 +19,5 @@ Bonjour ! Je suis Jean-Baptiste, un développeur Full Stack spécialisé en Java
 
 ## Contactez-moi 💬
 [Mon Profil LinkedIn](https://www.linkedin.com/in/jean-baptiste-bouillat/)
+
+# ![illustration](https://github.com/jbb-dev/jbb-dev/blob/main/DALL%C2%B7E%202023-12-05%2014.42.07%20-%20Create%20an%20inspiring%20illustration%20showing%20a%20web%20developer%20as%20a%20tech%20visionary.%20The%20character%20is%20standing%20confidently%20in%20a%20state-of-the-art%20digital%20comm.png)
