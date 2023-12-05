@@ -16,6 +16,7 @@ Bonjour ! Je suis Jean-Baptiste, un développeur Full Stack spécialisé en Java
 - **Solide expérience en Node & TypeScript**: Compétences avancées en Node.js et TypeScript pour des solutions backend robustes et évolutives.
 - **Approche Agile**: Expérience en gestion de projet Agile, assurant une livraison efficace et dans les délais.
 - **Orienté Client**: J'ai également 5 ans d'expérience en gestion de projets, j'ai notamment était Product Owner à deux reprises.
+- **Transmission**: J'ai aussi des expériences en enseignement (JavaScript, TypeScript, React) auprès d'étudiants et de développeurs professionnels. C'est pour moi un plaisir de transmettre mes connaissances tout en continuant moi-même à en développer de nouvelles.
 
 ## Contactez-moi 💬
 [Mon Profil LinkedIn](https://www.linkedin.com/in/jean-baptiste-bouillat/)
