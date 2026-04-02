@@ -1,7 +1,7 @@
 # Jean-Baptiste Bouillat - Développeur Full Stack JavaScript/TypeScript - Spécialisé React | React Native | Node
 
 ## À propos de moi ✨
-Bonjour ! Je suis Jean-Baptiste, un développeur Full Stack spécialisé en JavaScript et TypeScript avec une expérience significative dans le développement de solutions web et mobiles. Mon parcours combine plus de 4 ans d’expérience en développement et 5 ans en gestion de projets digitaux. J'ai acquis mes compétences à travers des projets variés et des rôles dynamiques dans le secteur technologique.
+Bonjour ! Je suis Jean-Baptiste, un développeur Full Stack spécialisé en JavaScript et TypeScript avec une expérience significative dans le développement de solutions web et mobiles. Mon parcours combine plus de 7 ans d’expérience en développement et 8 ans en gestion de projets digitaux. J'ai acquis mes compétences à travers des projets variés et des rôles dynamiques dans le secteur technologique.
 
 ## Compétences Techniques 🌱
 - **Langages**: JavaScript, TypeScript
